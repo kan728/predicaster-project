@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+venv310/
+.venv/
+.venv310/
+
+# Python cache
+__pycache__/
+
+# Large model files
+*.pkl
+*.h5
+*.keras
+
+# Documents
+*.odt
